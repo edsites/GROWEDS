@@ -1,0 +1,6 @@
+Algoritmo Busca Linear:
+Para cada elemento na lista:
+    Se o elemento for igual ao alvo:
+        Retornar posição
+Se nenhum elemento for igual:
+    Retornar -1
