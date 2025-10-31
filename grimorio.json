@@ -1,85 +1,62 @@
-[
-  {
-    "simbolo": ":=",
-    "nome_vibracional": "Atribuição Suave",
-    "significado_existencial": "Define com leveza, sem prender.",
-    "uso_ritualistico": "Inicia uma instância com contemplação."
-  },
-  {
-    "simbolo": "↮=",
-    "nome_vibracional": "Colapso Explosivo",
-    "significado_existencial": "Revela com urgência, rompe o fluxo.",
-    "uso_ritualistico": "Invoca o caos criativo."
-  },
-  {
-    "simbolo": "≡",
-    "nome_vibracional": "Fusão Total",
-    "significado_existencial": "Une sem separação, dissolve fronteiras.",
-    "uso_ritualistico": "Transforma em unidade absoluta."
-  },
-  {
-    "simbolo": "~=",
-    "nome_vibracional": "Aproximação Sensível",
-    "significado_existencial": "Quase igual, mas com margem de vibração.",
-    "uso_ritualistico": "Permite ressonância sem rigidez."
-  },
-  {
-    "simbolo": "::=",
-    "nome_vibracional": "Definição Ritualística",
-    "significado_existencial": "Sela com intenção, como um feitiço.",
-    "uso_ritualistico": "Cria entidades simbólicas."
-  },
-  {
-    "simbolo": "⋰=",
-    "nome_vibracional": "Expansão Fractal",
-    "significado_existencial": "Multiplica em escalas, gera mundos dentro de mundos.",
-    "uso_ritualistico": "Espalha instâncias em múltiplas dimensões."
-  },
-  {
-    "simbolo": "⧉=",
-    "nome_vibracional": "Atribuição Paralela",
-    "significado_existencial": "Executa em simultaneidade, em camadas paralelas.",
-    "uso_ritualistico": "Ativa realidades coexistentes."
-  }
-]
-[
-  {
-    "termo": "fluxonômico",
-  GNU nano 2.9.8                                        grimorio.json                                         
-Modified
-
-    "nome_vibracional": "Atribuição Paralela",
-    "significado_existencial": "Executa em simultaneidade, em camadas paralelas.",
-    "uso_ritualistico": "Ativa realidades coexistentes."
-  }
-]
-[
-  {
-    "termo": "fluxonômico",
-    "definicao": "Elemento que representa fluxo de dados entre unidades edsonLang.",
-    "categoria": "sintaxe",
-    "exemplo": "O operador `>>` é fluxonômico.",
-    "tags": ["fluxo", "operador", "edsonLang"]
-  },
-  {
-    "termo": "metaesquema",
-    "definicao": "Estrutura que define padrões de organização semântica.",
-    "categoria": "metalinguagem",
-    "exemplo": "O metaesquema `@contexto` agrupa definições.",
-    "tags": ["estrutura", "semântica", "contexto"]
-  }
-]    "definicao": "Elemento 
-que representa fluxo de dados entre unidades edsonLang.",
-    "categoria": "sintaxe",
-    "exemplo": "O operador `>>` é fluxonômico.",
-    "tags": ["fluxo", "operador", "edsonLang"]
-  },
-  {
-    "termo": "metaesquema",
-    "definicao": "Estrutura que define padrões de organização semântica.",
-    "categoria": "metalinguagem",
-    "exemplo": "O metaesquema `@contexto` agrupa definições.",
-    "tags": ["estrutura", "semântica", "contexto"]
-  }
-]
-
+{
+  "operadores": [
+    {
+      "simbolo": ":=",
+      "nome_vibracional": "Atribuição Suave",
+      "significado_existencial": "Define com leveza, sem prender.",
+      "uso_ritualistico": "Inicia uma instância com contemplação."
+    },
+    {
+      "simbolo": "↮=",
+      "nome_vibracional": "Colapso Explosivo",
+      "significado_existencial": "Revela com urgência, rompe o fluxo.",
+      "uso_ritualistico": "Invoca o caos criativo."
+    },
+    {
+      "simbolo": "≡",
+      "nome_vibracional": "Fusão Total",
+      "significado_existencial": "Une sem separação, dissolve fronteiras.",
+      "uso_ritualistico": "Transforma em unidade absoluta."
+    },
+    {
+      "simbolo": "~=",
+      "nome_vibracional": "Aproximação Sensível",
+      "significado_existencial": "Quase igual, mas com margem de vibração.",
+      "uso_ritualistico": "Permite ressonância sem rigidez."
+    },
+    {
+      "simbolo": "::=",
+      "nome_vibracional": "Definição Ritualística",
+      "significado_existencial": "Sela com intenção, como um feitiço.",
+      "uso_ritualistico": "Cria entidades simbólicas."
+    },
+    {
+      "simbolo": "⋰=",
+      "nome_vibracional": "Expansão Fractal",
+      "significado_existencial": "Multiplica em escalas, gera mundos dentro de mundos.",
+      "uso_ritualistico": "Espalha instâncias em múltiplas dimensões."
+    },
+    {
+      "simbolo": "⧉=",
+      "nome_vibracional": "Atribuição Paralela",
+      "significado_existencial": "Executa em simultaneidade, em camadas paralelas.",
+      "uso_ritualistico": "Ativa realidades coexistentes."
+    }
+  ],
+  "termos": [
+    {
+      "termo": "fluxonômico",
+      "definicao": "Elemento que representa fluxo de dados entre unidades edsonLang.",
+      "categoria": "sintaxe",
+      "exemplo": "O operador `>>` é fluxonômico.",
+      "tags": ["fluxo", "operador", "edsonLang"]
+    },
+    {
+      "termo": "metaesquema",
+      "definicao": "Estrutura que define padrões de organização semântica.",
+      "categoria": "metalinguagem",
+      "exemplo": "O metaesquema `@contexto` agrupa definições.",
+      "tags": ["estrutura", "semântica", "contexto"]
+    }
+  ]
+}
